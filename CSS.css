@@ -1,0 +1,12 @@
+/*Heading 1 styles*/
+	h1 {color: orange;}
+	/* Paragraph styles */
+	p {
+	color:orange;
+	font-weight: 1000;
+	text-decoration: overline;
+	}
+	/*Anchor Styles*/
+	a {
+	color: red;
+	}
